@@ -23,4 +23,8 @@
 <img width="1158" height="611" alt="image" src="https://github.com/user-attachments/assets/aa3cc919-281e-47cb-b5e4-08afa76829bb" />
 
 # Задание 4
-<img width="1080" height="188" alt="image" src="https://github.com/user-attachments/assets/efa316a1-a790-4b2b-9c09-5302f6c33942" />
+<img width="1005" height="135" alt="image" src="https://github.com/user-attachments/assets/6e0c25db-c3b9-4cf4-bbdf-40da6546b134" />
+<img width="898" height="292" alt="image" src="https://github.com/user-attachments/assets/2ea4463d-2be2-48b5-ba4e-7f07146c9d71" />
+<img width="1066" height="193" alt="image" src="https://github.com/user-attachments/assets/75e84790-7b93-447d-97f9-c1af3b9c4810" />
+<img width="920" height="325" alt="image" src="https://github.com/user-attachments/assets/88468846-bd89-4d0f-81b5-77e98da1aeb1" />
+
