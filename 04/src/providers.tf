@@ -9,9 +9,9 @@ terraform {
   }
 
   backend "s3" {
-    bucket  = "tfstate-lackerok-hw05"
-    key     = "terraform.tfstate"
-    region  = "ru-central1"
+    bucket = "tfstate-lackerok-hw05"
+    key    = "terraform.tfstate"
+    region = "ru-central1"
 
     # Встроенный механизм блокировок (Terraform >= 1.6)
     use_lockfile = true
