@@ -19,5 +19,7 @@
 
 # Задание 3
 <img width="935" height="51" alt="image" src="https://github.com/user-attachments/assets/bd74b9ef-f15f-4b3f-bd5d-c2b1dafc23d7" />
+<img width="1678" height="765" alt="image" src="https://github.com/user-attachments/assets/8de2336d-4241-415a-a6a0-23f88a8ada01" />
+<img width="1158" height="611" alt="image" src="https://github.com/user-attachments/assets/aa3cc919-281e-47cb-b5e4-08afa76829bb" />
 
 # Задание 4
