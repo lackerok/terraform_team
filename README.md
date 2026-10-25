@@ -23,3 +23,4 @@
 <img width="1158" height="611" alt="image" src="https://github.com/user-attachments/assets/aa3cc919-281e-47cb-b5e4-08afa76829bb" />
 
 # Задание 4
+<img width="1080" height="188" alt="image" src="https://github.com/user-attachments/assets/efa316a1-a790-4b2b-9c09-5302f6c33942" />
